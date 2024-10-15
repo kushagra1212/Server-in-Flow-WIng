@@ -7,6 +7,12 @@
 
 This documentation provides an example of how to create an HTTP server in Flow-Wing using the `Vortex` module. The server handles various HTTP requests, including GET and POST methods, and responds with appropriate content, including HTML and JSON.
 
+
+
+https://github.com/user-attachments/assets/4d7502a9-e1de-4c20-a82b-4ffee80df2b9
+
+
+
 ## Modules Required
 
 To create the HTTP server, you will need to bring in the following modules:
